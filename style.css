@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Spartan;
+}
+
+.pattern img{
+	position: absolute;
+	left: 20%;
+	top: 0%;
+}
+
+.text{
+	position: absolute;
+	top: 10%;
+	left: 7%;
+}
+
+.text h1{
+	color:hsl(300, 43%, 22%);
+	font-family: Spartan;
+	font-weight: 400;
+	font-size: 49px;
+}
+
+.text p{
+	color: #b1b1b1;
+	font-size: 15px;
+}
+
+.rating1{
+	position: absolute;
+	top: 12%;
+	left: 50%;
+	width: 25%;
+	padding: 10px;
+	background-color: hsl(300, 24%, 96%);
+	padding: 10px 5px;
+	border-radius: 3px;
+}
+
+.rating2{
+	width: 25%;
+	position: absolute;
+	top: 22%;
+	left: 53.5%;
+	padding: 10px;
+	background-color: hsl(300, 24%, 96%);
+	padding: 10px 5px;
+	border-radius: 3px;
+}
+
+.rating3{
+	width: 25%;
+	position: absolute;
+	top: 33%;
+	left: 57%;
+	padding: 10px;
+	background-color: hsl(300, 24%, 96%);
+	padding: 10px 5px;
+	border-radius: 3px;
+}
+
+.review1{
+	position:absolute;
+	top: 55%;
+    left: 7%;
+	width: 25%;
+	height: 30%;
+	font-size: 22px;
+	font-family: Spartan;
+	background-color: hsl(300, 43%, 22%);
+	padding:7px 10px;
+	border-radius: 5px;
+}
+
+.review1 img {
+	padding: 11px 5px;
+  border-radius: 50%;
+}
+
+.review1 p{
+	padding: 9px 5px;
+	position: absolute;
+	top: 2%;
+	left: 15%;
+	color: #fff;
+}
+
+.review1 h6{
+	padding: 9px 5px;
+	position: absolute;
+	top: 12%;
+	left: 15%;
+	color: #767280;
+}
+
+.review1 h5{
+	padding: 19px 5px;
+	position: absolute;
+	top: 23%;
+	color: #fff;
+}
+
+.review2{
+	position:absolute;
+	top: 57%;
+    left: 35%;
+	width: 25%;
+	height: 30%;
+	font-size: 22px;
+	font-family: Spartan;
+	background-color: hsl(300, 43%, 22%);
+	padding:7px 10px;
+	border-radius: 5px;
+}
+
+.review2 img {
+	padding: 11px 5px;
+  border-radius: 50%;
+}
+
+.review2 p{
+	padding: 9px 5px;
+	position: absolute;
+	top: 2%;
+	left: 15%;
+	color: #fff;
+}
+
+.review2 h6{
+	padding: 9px 5px;
+	position: absolute;
+	top: 12%;
+	left: 15%;
+	color: #767280;
+}
+
+.review2 h5{
+	padding: 19px 5px;
+	position: absolute;
+	top: 23%;
+	color: #fff;
+}
+
+
+.review3{
+	position:absolute;
+	top: 59%;
+    left: 63%;
+	width: 25%;
+	height: 30%;
+	font-size: 22px;
+	font-family: Spartan;
+	background-color: hsl(300, 43%, 22%);
+	padding:7px 10px;
+	border-radius: 5px;
+}
+
+.review3 img {
+	padding: 11px 5px;
+  border-radius: 50%;
+}
+
+.review3 p{
+	padding: 9px 5px;
+	position: absolute;
+	top: 2%;
+	left: 15%;
+	color: #fff;
+}
+
+.review3 h6{
+	padding: 9px 5px;
+	position: absolute;
+	top: 12%;
+	left: 15%;
+	color: #767280;
+}
+
+.review3 h5{
+	padding: 19px 5px;
+	position: absolute;
+	top: 23%;
+	color: #fff;
+}
+
+
+
+.attribution {
+        font-size: 17px;
+        position: absolute;
+        top: 97%;
+        left: 36%;
+      }
+      
+.attribution a {
+        color: hsl(228, 45%, 44%);
+      }
